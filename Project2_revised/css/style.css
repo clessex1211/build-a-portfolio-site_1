@@ -1,0 +1,22 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+
+h1 { 
+	 font-size: 42px; 
+	 font-weight: bold;
+	 font-family: 'Quicksand', sans-serif;	
+}
+
+h3 { 
+	 font-size: 28px
+	 font-family: Abel, sans-serif;
+}
+
+h2 { 
+	 font-family: 'Poiret One', cursive;
+	 font-weight: bold;
+	 font-color: BCBBBB;
+}
